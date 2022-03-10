@@ -2,9 +2,9 @@
 
 # Oi, sou o Bruno Pinho!👋
 
-📚 Estudo Desenvolvimento Web na [@betrybe](https://www.betrybe.com/)
+📚 Estudo Desenvolvimento Web na [@betrybe](https://www.betrybe.com/). Estou no último módulo do curso, de Ciência da Computação. 
 
-🚀 Atualmente focado em Node.js
+🚀 Atualmente estou focado em construir aplicações React para aprofundar meu conhecimento em front-end.
 
 💬 Se quiser mandar uma mensagem, me adicione no [Linkedin](http://linkedin.com/in/brunopinhodefreitas/)! Vou adorar conversar! :)  
 
