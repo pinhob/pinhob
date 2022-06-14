@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/20286747/120088284-4abe2e00-c0c5-11eb-9151-d2e75398eb6c.png" align="left" alt="github_readme_alternative" height="350px">
-
 # Oi, sou o Bruno Pinho!👋
 
 📚 Estudei Desenvolvimento Web na [@betrybe](https://www.betrybe.com/). 
