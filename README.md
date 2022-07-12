@@ -1,8 +1,8 @@
 # Oi, sou o Bruno Pinho!👋
 
-📚 Estudei Desenvolvimento Web na [@betrybe](https://www.betrybe.com/). 
+:computer: Trabalho como Desenvolvedor Web na Altasnet, usando principalmente JavaScript e Servicenow.
 
-🚀 Atualmente estou focado em construir aplicações React para aprofundar meu conhecimento em front-end.
+📚 Estudei Desenvolvimento Web na [@betrybe](https://www.betrybe.com/). 
 
 💬 Se quiser mandar uma mensagem, me adicione no [Linkedin](http://linkedin.com/in/brunopinhodefreitas/)! Vou adorar conversar! :)  
 
