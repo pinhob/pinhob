@@ -1,6 +1,6 @@
 # Oi, sou o Bruno Pinho!👋
 
-:computer: Trabalho como Desenvolvedor Web na Altasnet, usando principalmente JavaScript e Servicenow.
+:computer: Trabalho como Desenvolvedor Web na Altasnet, usando principalmente JavaScript e ServiceNow.
 
 📚 Estudei Desenvolvimento Web na [@betrybe](https://www.betrybe.com/). 
 
