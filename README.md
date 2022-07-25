@@ -2,7 +2,9 @@
 
 :computer: Trabalho como Desenvolvedor Web na Altasnet, usando principalmente JavaScript e ServiceNow.
 
-📚 Estudei Desenvolvimento Web na [@betrybe](https://www.betrybe.com/). 
+📚 Estudei Desenvolvimento Web na [@betrybe](https://www.betrybe.com/).
+
+:rocket: Atualmente, estou focado em estudar POO com Java e TypeScript.
 
 💬 Se quiser mandar uma mensagem, me adicione no [Linkedin](http://linkedin.com/in/brunopinhodefreitas/)! Vou adorar conversar! :)  
 
