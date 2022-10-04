@@ -1,10 +1,10 @@
 # Oi, sou o Bruno Pinho!👋
 
-:computer: Trabalho como Desenvolvedor Web na Altasnet, usando principalmente JavaScript e ServiceNow.
+:computer: Trabalho como Desenvolvedor FUllStack na Vivo, usando principalmente React, Node e MongoDB.
 
 📚 Estudei Desenvolvimento Web na [@betrybe](https://www.betrybe.com/).
 
-:rocket: Atualmente, estou focado em estudar POO com Java e TypeScript.
+:rocket: Atualmente, estou focado em estudar Estrutura de dados e TypeScript.
 
 💬 Se quiser mandar uma mensagem, me adicione no [Linkedin](http://linkedin.com/in/brunopinhodefreitas/)! Vou adorar conversar! :)  
 
