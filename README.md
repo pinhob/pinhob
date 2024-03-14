@@ -4,7 +4,7 @@
 
 📚 Estudei Desenvolvimento Web na [@betrybe](https://www.betrybe.com/).
 
-:rocket: Atualmente, estou focado em estudar Estrutura de dados e TypeScript.
+:rocket: Atualmente, estou focado em estudar Estrutura de dados e Go.
 
 💬 Se quiser mandar uma mensagem, me adicione no [Linkedin](http://linkedin.com/in/brunopinhodefreitas/)! Vou adorar conversar! :)  
 
