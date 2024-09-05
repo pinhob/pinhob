@@ -1,8 +1,8 @@
 # Oi, sou o Bruno Pinho!👋
 
-:computer: Trabalho como Desenvolvedor FullStack na Vivo, usando principalmente React, Node e MongoDB.
+:computer: Trabalho como Desenvolvedor FullStack na Vivo, usando principalmente React e Node no meu dia-a-dia.
 
-📚 Estudei Desenvolvimento Web na [@betrybe](https://www.betrybe.com/).
+📚 Estudo Tecnologia da Informação na Univesp. Antes, estudei Desenvolvimento Web na [@betrybe](https://www.betrybe.com/). 
 
 :rocket: Atualmente, estou focado em estudar Estrutura de dados e Go.
 
