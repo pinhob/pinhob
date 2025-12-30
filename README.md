@@ -1,10 +1,10 @@
 # Oi, sou o Bruno Pinho!👋
 
-:computer: Trabalho como Desenvolvedor FullStack na Vivo, usando principalmente React e Node no meu dia-a-dia.
+:computer: Trabalho como Engenheiro de Software no Mercado Livre, usando principalmente Java e Go no meu dia-a-dia.
 
-📚 Estudo Tecnologia da Informação na Univesp. Antes, estudei Desenvolvimento Web na [@betrybe](https://www.betrybe.com/). 
+📚 Estudo Tecnologia da Informação na Univesp. 
 
-:rocket: Atualmente, estou focado em estudar Estrutura de dados e Go.
+:rocket: Atualmente, estou focado em estudar Java e sistemas distribuídos.
 
 💬 Se quiser mandar uma mensagem, me adicione no [Linkedin](http://linkedin.com/in/brunopinhodefreitas/)! Vou adorar conversar! :)  
 
