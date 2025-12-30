@@ -8,6 +8,8 @@
 
 💬 Se quiser mandar uma mensagem, me adicione no [Linkedin](http://linkedin.com/in/brunopinhodefreitas/)! Vou adorar conversar! :)  
 
+🌐 **Para mais informações e ver meu blog: [brunopinho.dev](brunopinho.dev)**
+
 ## Onde mais estou:
 
 <a href="https://linkedin.com/in/brunopinhodefreitas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></img></a> 
